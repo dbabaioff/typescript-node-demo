@@ -1,4 +1,4 @@
-# typescript-node
+# typescript-node-demo
 Minimal demo showing how to use TypeScript with node.js
 
 ## Prerequisites
